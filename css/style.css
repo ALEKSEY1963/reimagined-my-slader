@@ -17,7 +17,7 @@ img {
 .swiper-pagination-bullet {
   width: 15px;
   height: 15px;
-  background-color:rgb(249, 9, 9);
+  background-color:rgb(245, 6, 6);
 }
 .swiper-pagination-bullet-active {
   background-color: rgb(233, 238, 241);
